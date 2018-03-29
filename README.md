@@ -1,8 +1,8 @@
 ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) 
 
-# wdi-11-chi _curious-turtles_
+## wdi-11-chi _curious-turtles_
 
-## Project #1: The Game
+# Project #1: The Game
 
 ### Overview
 
@@ -66,6 +66,17 @@ Sometimes just called "Memory", it's a card game in which all of the cards are l
 
 ##### Self-scoring Trivia
 Test your wits & knowledge with whatever-the-heck you know about (so you can actually win). Guess answers, have the computer tell you how right you are!
+
+---
+
+### A few from the previous cohort, wdi-10-fluff-hounds
+
+https://kmikitin.github.io/Quarto/
+https://sierramoore.github.io/vampire-game/
+https://scrummish.github.io/Space-Invaders-2018/
+https://webermn15.github.io/Scorch_a-scorched-earth-clone/
+https://anthonyjlower.github.io/canvas-football-game/
+
 
 ---
 
