@@ -71,10 +71,10 @@ Test your wits & knowledge with whatever-the-heck you know about (so you can act
 
 ### A few from the previous cohort, wdi-10-fluff-hounds
 
-https://kmikitin.github.io/Quarto/
-https://sierramoore.github.io/vampire-game/
-https://scrummish.github.io/Space-Invaders-2018/
-https://webermn15.github.io/Scorch_a-scorched-earth-clone/
+https://kmikitin.github.io/Quarto/ <br>
+https://sierramoore.github.io/vampire-game/ <br>
+https://scrummish.github.io/Space-Invaders-2018/ <br>
+https://webermn15.github.io/Scorch_a-scorched-earth-clone/ <br>
 https://anthonyjlower.github.io/canvas-football-game/
 
 
